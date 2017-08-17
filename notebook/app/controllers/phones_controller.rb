@@ -15,10 +15,12 @@ class PhonesController < ApplicationController
   # GET /phones/new
   def new
     @phone = Phone.new
+    options_for_select
   end
 
   # GET /phones/1/edit
   def edit
+    options_for_select
   end
 
   # POST /phones
@@ -62,6 +64,10 @@ class PhonesController < ApplicationController
   end
 
   private
+    def options_for_select
+      @contact_options_for_select = Contact.all
+    end  
+  
     # Use callbacks to share common setup or constraints between actions.
     def set_phone
       @phone = Phone.find(params[:id])
