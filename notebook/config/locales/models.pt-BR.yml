@@ -6,17 +6,22 @@
         other: Contatos
       address:
         one: Endereço 
-        other: Endereços        
+        other: Endereços
+      phone:
+        one: Telefone 
+        other: Telefones
     attributes:
       contact:
-        name: "Nome"
-        email: "E-mail"
-        kind: "Tipo de Contato"
-        kind_it: "Tipo de Contato"
-        rmk: "Obs."
+        name: Nome
+        email: E-mail
+        kind: Tipo de Contato
+        kind_it: Tipo de Contato
+        rmk: Obs.
       address:
         street: Rua
         city: Cidade
         state: Estado
         contact_id: Contato
         contact: Contato
+      phone:
+        phone: Telefone    
