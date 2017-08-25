@@ -15,7 +15,7 @@
         name: Nome
         email: E-mail
         kind: Tipo de Contato
-        kind_it: Tipo de Contato
+        kind_id: Tipo de Contato
         rmk: Obs.
       address:
         street: Rua
