@@ -6,6 +6,8 @@ gem 'bundler', '>= 1.8.4'
 gem 'rails', '4.2.5'
 # Rails Assets is the frictionless proxy between Bundler and Bower.
 gem 'rails-assets-notifyjs', source: 'https://rails-assets.org'
+# The most popular front-end framework for developing responsive, mobile first projects on the web.
+gem 'rails-assets-bootstrap', '3.3.6', source: 'https://rails-assets.org'
 # i18n for kaminari
 gem 'kaminari-i18n'
 # A Scope & Engine based, clean, powerful, customizable and sophisticated paginator for Ruby webapps https://github.com/amatsuda/kaminari/…
