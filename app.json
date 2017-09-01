@@ -1,0 +1,7 @@
+{
+  "name": "Notebook in Rails",
+  "description": "A simple app to learn rails",
+  "repository": "https://github.com/willianhy/Rails-samples",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": ["rails", "ruby", "notebook"]
+}
