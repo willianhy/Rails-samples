@@ -5,8 +5,8 @@ Commands
 
 ```
 heroku login
-heroku create APP__OF_NAME
-heroku run db:migrate --app NAME_OF_APP
-heroku run db:seed --app NAME_OF_APP
-heroku run seed:utils --app NAME_OF_APP
+heroku create APP_NAME
+heroku run db:migrate --app APP_NAME
+heroku run db:seed --app APP_NAME
+heroku run seed:utils --app APP_NAME
 ```
