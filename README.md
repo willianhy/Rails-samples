@@ -1,5 +1,6 @@
+[![Build Status](https://travis-ci.org/willianhy/Rails-samples.svg?branch=master)](https://travis-ci.org/willianhy/Rails-samples)  
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
-[![Build Status](https://travis-ci.org/willianhy/Rails-samples.svg?branch=master)](https://travis-ci.org/willianhy/Rails-samples)
+
 Commands (needed to install Heroky CLI)
 ------------------------------
 
